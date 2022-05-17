@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="input_name_id">Masukkan Nama Anda</string>
+    <string name="input_email_id">Masukkan Email Anda</string>
+    <string name="input_password_id">Masukkan password Anda</string>
+    <string name="valid_email_id">Email harus valid</string>
+    <string name="valid_pass_id">Password minimal 6 karakter</string>
+    <string name="register_successful">Register success</string>
+    <string name="menu_logout_en">Log Out</string>
+    <string name="register_en">Register</string>
+
+</resources>
